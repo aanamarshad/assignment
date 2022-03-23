@@ -1,0 +1,102 @@
+.container {
+    display: flex;
+    
+  }
+  .box1 {
+    background-color: rgb(143, 5, 102);
+    height: 200px;
+    width: 100%;
+    
+  }
+  .box2 {
+    background-color: rgb(219, 105, 185);
+    height: 900%;
+    width: 40%;
+    align-items: left;
+  
+  }
+  .box3 {
+    background-color: rgb(236, 183, 221);
+    height: 900%;
+    width: 70%;
+    align-items: right;
+    
+  }
+  .pic {
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    margin-top: 1%;
+    margin-left: 1%;
+    display: inline-block;
+    float: left;
+  }
+  .head {
+    color: rgb(247, 242, 242);
+    margin-left: 17%;
+    margin-top: 32px;
+    font-weight: bold;
+  }
+  .iconright{
+    position: relative;
+    color: rgb(247, 242, 242);
+    margin-top: 0%;
+    bottom: 30%;
+    margin-right: 7%;
+    float: right;
+    text-decoration: none;
+  }
+  .iconleft{
+    color: rgb(0, 0, 0);
+    margin-left: 4%;
+    left: 1px;
+    text-decoration: none;
+    align-items: left;
+  }
+  .container2{
+    display: flex;
+  }
+  .h2 {
+    color: rgb(247, 242, 242);
+    align-items: left;
+    margin: 3%;
+  }
+  .h3 {
+    color: rgb(0, 0, 0);
+    align-items: left;
+    margin: 3%;
+    font-weight: bold;
+  }
+  
+  .checked {
+    color: rgb(82, 5, 59);
+   
+    
+  }
+  
+  .icons
+  {
+    color: black;
+    margin-right: 2%;
+    font-size : 20px;
+  }
+  span {
+    margin-left: 2%;
+  }
+  .linespacing {
+    line-height: 0%;
+  }
+  .right {
+    color: rgb(247, 242, 242);
+    align-items: right;
+    margin: 3%;
+  }
+  .body {
+    color: rgb(0, 0, 0);
+    align-items: right;
+    margin: 3%;
+    font-size: 19px;
+  }
+  ul,li{
+    font-size: 19px;
+  }  
